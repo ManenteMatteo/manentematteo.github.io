@@ -1,0 +1,37 @@
+---
+title: "Matteo Manente"
+image: profile.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ManenteMatteo
+    - icon: globe
+      text: OSF
+      href: https://osf.io/profile
+    - icon: envelope
+      text: Email
+      href: mailto:matteo.manente.3@phd.unipd.it 
+---
+
+## Bio
+
+I am a **Licensed Psychologist** and a **PhD Candidate** in Psychological Sciences at the University of Padova.
+
+I am also a member of the **[Psicostat](https://psicostat.dpss.psy.unipd.it/)** research group, where we try to make sense of psychological data.
+
+My work sits at the intersection of clinical psychology and quantitative methodology.
+
+Currently, I am working on the development and application of **Inferential Multiverse Meta-analysis**. My goal is to investigate the robustness of the efficacy of psychotherapies, moving beyond simple effect sizes to understand how analytical choices shape scientific conclusions.
+
+
+## Research Interests
+::: {.arrow-list}
+* **Statistics:** Meta-analysis, Multiverse analysis, Permutation-based Inferential methods
+* **Clinical Psychology:** Psychotherapy efficacy, Clinical trial methodology
+* **Open Science:** Research Replicability, Philosophy of Science
+:::
+

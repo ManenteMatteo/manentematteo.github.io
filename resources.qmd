@@ -1,0 +1,15 @@
+---
+title: "Materials & Teaching"
+---
+
+## Slides
+
+::: {.arrow-list}
+* **Inferential Multiverse Meta-Analysis (PIMMA)** | [View Slides](slides/innsbruck_lesson_copy.html)
+
+:::
+
+<br>
+
+## Code & Tutorials
+
