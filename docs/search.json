@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Materials & Teaching",
+    "section": "",
+    "text": "Inferential Multiverse Meta-Analysis (PIMMA) | View Slides"
+  },
+  {
+    "objectID": "resources.html#slides",
+    "href": "resources.html#slides",
+    "title": "Materials & Teaching",
+    "section": "",
+    "text": "Inferential Multiverse Meta-Analysis (PIMMA) | View Slides"
+  },
+  {
+    "objectID": "resources.html#code-tutorials",
+    "href": "resources.html#code-tutorials",
+    "title": "Materials & Teaching",
+    "section": "Code & Tutorials",
+    "text": "Code & Tutorials"
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Matteo Manente",
+    "section": "",
+    "text": "Institutional: matteo.manente.3@phd.unipd.it\nPersonal: manente.matteo00@gmail.com\nPEC: matteo.manente@pecpsyveneto.it"
+  },
+  {
+    "objectID": "contacts.html#email",
+    "href": "contacts.html#email",
+    "title": "Matteo Manente",
+    "section": "",
+    "text": "Institutional: matteo.manente.3@phd.unipd.it\nPersonal: manente.matteo00@gmail.com\nPEC: matteo.manente@pecpsyveneto.it"
+  },
+  {
+    "objectID": "contacts.html#office-location",
+    "href": "contacts.html#office-location",
+    "title": "Matteo Manente",
+    "section": "Office Location",
+    "text": "Office Location\nUniversità degli Studi di Padova - Department of Developmental Psychology and Socialisation (DPSS)\nCentro Linguistico di Ateneo (5th floor), Via Venezia, 16, Padova (PD), Italy"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Matteo Manente",
@@ -19,5 +61,96 @@
     "title": "Matteo Manente",
     "section": "Research Interests",
     "text": "Research Interests\n\n\nStatistics: Meta-analysis, Multiverse analysis, Permutation-based Inferential methods\nClinical Psychology: Psychotherapy efficacy, Clinical trial methodology\nOpen Science: Research Replicability, Philosophy of Science"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Manente, M., Altoè, G., Finos, L., & Gambarota, F. (in prep). A Framework for Inference in Multiverse Meta-analysis with Applications to Real Case Studies.\nMarci, T., Calignano, G., Manente, M., Menghini, L., & Liuzza, M. T. (in prep). Evidence for a Two-Dimensional Structure of the Italian short-form Grit-S in Youth."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "Manente, M., Altoè, G., Finos, L., & Gambarota, F. (in prep). A Framework for Inference in Multiverse Meta-analysis with Applications to Real Case Studies.\nMarci, T., Calignano, G., Manente, M., Menghini, L., & Liuzza, M. T. (in prep). Evidence for a Two-Dimensional Structure of the Italian short-form Grit-S in Youth."
+  },
+  {
+    "objectID": "research.html#talks-posters-presentations",
+    "href": "research.html#talks-posters-presentations",
+    "title": "Research",
+    "section": "Talks, Posters & Presentations",
+    "text": "Talks, Posters & Presentations\n\n2026\n\n\nManente, M., Altoè, G., Finos, L., & Gambarota, F. (accepted). Your meta-analysis depends on choices: A multiverse approach to solid inference. Talk at the Cognitive Science Arena (CSA), Bressanone, Italy.\nManente, M., Finos, L., & Altoè, G. (submitted). Does EMDR Really Work? A Multiverse Meta-Analysis of PTSD Treatment Efficacy. Poster at the Italian Reproducibility Network (ITRN) Meeting, Verona, Italy.\nManente, M. (2026). Multiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research. Invited Talk for the Methodenvertiefung Meta-Analysis Course, University of Innsbruck.\n\n\n\n\n2025\n\n\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Choices Shape Conclusions: An Inferential Multiverse approach to Meta-Analysis. Talk at the Psicostat Meeting (Online).\nSità, L., Manente, M., Perugini, A., Calignano, G., Toffalini, E., Marci, T., Pastore, M., & Altoè, G. (2025). Set up for a Methodological Review Board in Psychology. Symposium at the Platform for Young Meta-Scientists (PYMS), Tilburg, Netherlands.\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Enhancing Transparency and Rigor in Psychology: A Multiverse Inference Framework. Poster at the Associazione Italiana di Psicologia (AIP) Sperimentale National Congress, Torino, Italy.\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Post-Selection Inference in Multiverse Meta-Analysis (PIMMA). Talk at the European Mathematical Psychology Group (EMPG) Meeting, Padova, Italy."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n\nPhD in Psychological Sciences (XLI Cycle) | University of Padova\n\n2025 - Present\nSupervisor: Prof. Gianmarco Altoè\n\nM.S. in Developmental Clinical Psychology | University of Padova\n\n2023 - 2025 | 110 cum laude\nThesis: ‘Multiverse Meta-Analysis: Proposal of a New Inferential Approach with an Application to Depression Psychotherapy’\nSupervisor: Prof. Gianmarco Altoè | Co-Supervisor: Dr. Filippo Gambarota\n\nB.S. in Psychological Sciences and Techniques | University of Padova\n\n2019 - 2023 | 109/110\nThesis: Bullying, Cyberbullying and Parenting Styles\nSupervisor: Prof. Tiziana Pozzoli"
+  },
+  {
+    "objectID": "cv.html#professional-licensure",
+    "href": "cv.html#professional-licensure",
+    "title": "Curriculum Vitae",
+    "section": "Professional Licensure",
+    "text": "Professional Licensure\n\n\nLicensed Psychologist (Section A)\n\nOrdine degli Psicologi del Veneto | N. 15759 (since Oct. 13, 2025)"
+  },
+  {
+    "objectID": "cv.html#academic-publications",
+    "href": "cv.html#academic-publications",
+    "title": "Curriculum Vitae",
+    "section": "Academic Publications",
+    "text": "Academic Publications\n\n\nManente, M., Altoè, G., Finos, L., & Gambarota, F. (in prep). A Framework for Inference in Multiverse Meta-analysis with Applications to Real Case Studies.\nMarci, T., Calignano, G., Manente, M., Menghini, L., & Liuzza, M. T. (in prep). Evidence for a Two-Dimensional Structure of the Italian short-form Grit-S in Youth."
+  },
+  {
+    "objectID": "cv.html#conference-presentations",
+    "href": "cv.html#conference-presentations",
+    "title": "Curriculum Vitae",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n2026\n\n\nManente, M., Altoè, G., Finos, L., & Gambarota, F. (accepted). Your meta-analysis depends on choices: A multiverse approach to solid inference. Talk at Cognitive Science Arena (CSA), Bressanone.\nManente, M., Finos, L., & Altoè, G. (submitted). Does EMDR Really Work? A Multiverse Meta-Analysis of PTSD Treatment Efficacy. Poster at ITRN Meeting, Verona.\nManente, M. (Invited Talk). Multiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom. University of Innsbruck.\n\n\n2025\n\n\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. Post-Selection Inference in Multiverse Meta-Analysis (PIMMA). EMPG Meeting, Padova.\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. Enhancing Transparency and Rigor in Psychology. AIP Sperimentale, Torino.\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. Choices Shape Conclusions. Psicostat Meeting (Online).\nSità, L., Manente, M., et al. Set up for a Methodological Review Board in Psychology. Symposium at PYMS, Tilburg."
+  },
+  {
+    "objectID": "cv.html#methodological-training",
+    "href": "cv.html#methodological-training",
+    "title": "Curriculum Vitae",
+    "section": "Methodological Training",
+    "text": "Methodological Training\nAdvanced Statistics (PhD Courses)\n\n\nGeneralised Linear Models (20h) | University of Padova (Dec 2025)\nBasics of Statistical Inference and Linear Models with R (20h) | University of Padova (Nov-Dec 2025)\nBasics of R for Data Science (10h) | University of Padova (Nov 2025)\n\n\nSummer Schools & Workshops\n\n\nReplicability Crisis in Science (20h) | University of Padova (June 2025)\nBEYOND classical p-values (30h) | University of Trento (May 2025)\nPreDoc Camp in Psychology & Cognitive Science (20h) | University of Trento (April 2025)\nARCA Course: PsychoPy3 (20h) | University of Padova (March 2025)"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "Work Experience",
+    "text": "Work Experience\n\n\nEducator | CTRP ‘I Cristalli’ (VR)\n\nApr 2025 - Sept 2025\nFacilitation of therapeutic interventions and multidisciplinary evaluations.\n\nClinical Internship (500h) | CTRP ‘I Cristalli’ (VR)\n\nJuly 2024 - Nov 2024\nTherapeutic groups (art/music therapy), drafting individualized plans (PTI).\n\nClinical Internship (250h) | Mater Salutis Hospital / Day Center ‘Il Tulipano’ (VR)\n\n2022 - 2023\nSupport in rehabilitative sessions with psychiatric patients."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nLanguages\n\nItalian: Mother tongue\nEnglish: C1 (IELTS 8.0)\nSpanish: Good\n\nDigital Skills\n\nAdvanced: R, Quarto, Markdown, Data Visualization (ggplot2)\nBasic: PsychoPy, Python, Zotero, Canva\nFocus: Statistical modeling, experiment programming, meta-analysis"
+  },
+  {
+    "objectID": "cv.html#third-mission",
+    "href": "cv.html#third-mission",
+    "title": "Curriculum Vitae",
+    "section": "Third Mission",
+    "text": "Third Mission\n\n\nMethodological Review Board (MRB) Development | University of Padova\n\nMarch 2024 - Present\nMember of the Pilot Study Team. Designing a departmental review board to promote Open Science.\n\nLa scienza è aperta: la scienza incontra la città | University of Padova\n\nNov 2025 | Organization Committee\nPublic engagement event promoting transparency in research."
   }
 ]
