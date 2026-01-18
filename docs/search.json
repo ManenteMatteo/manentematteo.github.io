@@ -46,21 +46,14 @@
     "href": "index.html",
     "title": "Matteo Manente",
     "section": "",
-    "text": "I am a Licensed Psychologist and a PhD Candidate in Psychological Sciences at the University of Padova.\nI am also a member of the Psicostat research group, where we try to make sense of psychological data.\nMy work sits at the intersection of clinical psychology and quantitative methodology.\nCurrently, I am working on the development and application of Inferential Multiverse Meta-analysis. My goal is to investigate the robustness of the efficacy of psychotherapies, moving beyond simple effect sizes to understand how analytical choices shape scientific conclusions."
-  },
-  {
-    "objectID": "index.html#bio",
-    "href": "index.html#bio",
-    "title": "Matteo Manente",
-    "section": "",
-    "text": "I am a Licensed Psychologist and a PhD Candidate in Psychological Sciences at the University of Padova.\nI am also a member of the Psicostat research group, where we try to make sense of psychological data.\nMy work sits at the intersection of clinical psychology and quantitative methodology.\nCurrently, I am working on the development and application of Inferential Multiverse Meta-analysis. My goal is to investigate the robustness of the efficacy of psychotherapies, moving beyond simple effect sizes to understand how analytical choices shape scientific conclusions."
+    "text": "I am a Licensed Psychologist and PhD Candidate in Psychological Sciences at the University of Padova. I am also a member of the Psicostat research group.\nMy research combines clinical psychology and quantitative and statistical methodology, with the goal of improving the robustness and credibility of psychological research.\nI am currently developing and applying Inferential Multiverse Meta-analysis, moving beyond single effect sizes to examine how analytical decisions shape scientific conclusions."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Matteo Manente",
     "section": "Research Interests",
-    "text": "Research Interests\n\n\nStatistics: Meta-analysis, Multiverse analysis, Permutation-based Inferential methods\nClinical Psychology: Psychotherapy efficacy, Clinical trial methodology\nOpen Science: Research Replicability, Philosophy of Science"
+    "text": "Research Interests\n\n\nStatistics\n\nMeta-analysis, Multiverse analysis, Permutation-based inference\n\nClinical Psychology\n\nPsychotherapy efficacy, Clinical trial methodology\n\nOpen Science\n\nResearch replicability, Philosophy of Science"
   },
   {
     "objectID": "research.html",
@@ -105,11 +98,11 @@
     "text": "Education\n\n\nPhD in Psychological Sciences (XLI Cycle) | University of Padova\n\n2025 - Present\nSupervisor: Prof. Gianmarco Altoè\n\nM.S. in Developmental Clinical Psychology | University of Padova\n\n2023 - 2025 | 110 cum laude\nThesis: ‘Multiverse Meta-Analysis: Proposal of a New Inferential Approach with an Application to Depression Psychotherapy’\nSupervisor: Prof. Gianmarco Altoè | Co-Supervisor: Dr. Filippo Gambarota\n\nB.S. in Psychological Sciences and Techniques | University of Padova\n\n2019 - 2023 | 109/110\nThesis: Bullying, Cyberbullying and Parenting Styles\nSupervisor: Prof. Tiziana Pozzoli"
   },
   {
-    "objectID": "cv.html#professional-licensure",
-    "href": "cv.html#professional-licensure",
+    "objectID": "cv.html#professional-qualification",
+    "href": "cv.html#professional-qualification",
     "title": "Curriculum Vitae",
-    "section": "Professional Licensure",
-    "text": "Professional Licensure\n\n\nLicensed Psychologist (Section A)\n\nOrdine degli Psicologi del Veneto | N. 15759 (since Oct. 13, 2025)"
+    "section": "Professional Qualification",
+    "text": "Professional Qualification\n\n\nLicensed Psychologist (Section A)\n\nOrdine degli Psicologi del Veneto | N. 15759 (since Oct. 13, 2025)"
   },
   {
     "objectID": "cv.html#academic-publications",
@@ -144,7 +137,7 @@
     "href": "cv.html#skills",
     "title": "Curriculum Vitae",
     "section": "Skills",
-    "text": "Skills\nLanguages\n\nItalian: Mother tongue\nEnglish: C1 (IELTS 8.0)\nSpanish: Good\n\nDigital Skills\n\nAdvanced: R, Quarto, Markdown, Data Visualization (ggplot2)\nBasic: PsychoPy, Python, Zotero, Canva\nFocus: Statistical modeling, experiment programming, meta-analysis"
+    "text": "Skills\nLanguages\n\nItalian: Native\nEnglish: C1 (IELTS 8.0)\nSpanish: Intermediate\n\nDigital Skills\n\nAdvanced: R, Quarto, Markdown, Data Visualization (ggplot2)\nBasic: PsychoPy, Python, Zotero, Canva\nFocus: Statistical modeling, experiment programming, meta-analysis"
   },
   {
     "objectID": "cv.html#third-mission",

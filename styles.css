@@ -90,3 +90,37 @@ p {
   left: 0;
 }
 
+
+/* --- RESEARCH INTERESTS LIST --- */
+
+.interests-list ul {
+  list-style: none; /* Removes default dots */
+  padding-left: 0;
+}
+
+/* Level 1: The Category (e.g., Statistics) */
+.interests-list > ul > li {
+  font-size: 1.1em;
+  margin-top: 1rem; /* Space above each category */
+  margin-bottom: 0.2rem;
+  color: #222;
+  /* No arrow here, just bold text */
+}
+
+/* Level 2: The Items (e.g., Meta-analysis...) */
+.interests-list ul li ul li {
+  position: relative;
+  padding-left: 2rem; /* Indentation */
+  font-size: 0.95em;
+  font-weight: 300;
+  color: #444;
+}
+
+/* The Arrow for Level 2 */
+.interests-list ul li ul li::before {
+  content: "➔";
+  color: $unipd-red; /* Uses your University Red */
+  font-weight: bold;
+  position: absolute;
+  left: 0.5rem; /* Position of the arrow */
+}
