@@ -5,13 +5,12 @@ toc: false
 
 ## Email
 
-::: {.arrow-list}
 * **Institutional:** <a href="mailto:matteo.manente.3@phd.unipd.it">matteo.manente.3@phd.unipd.it</a>
   
 * **Personal:** <a href="mailto:manente.matteo00@gmail.com">manente.matteo00@gmail.com</a>
 
 * **PEC:** <a href="matteo.manente@pecpsyveneto.it">matteo.manente@pecpsyveneto.it</a>
-:::
+
 
 <br>
 

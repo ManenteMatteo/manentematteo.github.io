@@ -1,0 +1,60 @@
+/*-- scss:rules --*/
+
+// IMPORT FONTS
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+// --- STILI GLOBALI ---
+body {
+  font-family: 'Lato', sans-serif;
+  color: #000000; /* Nero standard */
+  background-color: #ffffff;
+}
+
+// I link li lascio colorati (rosso unipd) per far capire che sono cliccabili,
+// ma se li vuoi neri cambia #a00414 in #000000 qui sotto.
+a {
+  color: #a00414;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+// --- TIPOGRAFIA (TUTTO NERO) ---
+h1, h2, h3, h4 {
+  color: #000000; /* Titoli Neri */
+  font-weight: 700;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 1px solid #eee; /* Linea grigia sottile sotto il titolo principale */
+  padding-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 1.75rem;
+  color: #000000; /* Nero anche qui */
+}
+
+p {
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+
+
+/* --- LIST SPACING FIX --- */
+
+/* 1. Add space between the MAIN list items (e.g., between PhD and MS) */
+main ul > li {
+  margin-bottom: 1.5rem; /* Adjust this number to increase/decrease space */
+}
+
+/* 2. Keep the SUB-items tight (e.g., Date, Supervisor) */
+main ul li ul li {
+  margin-bottom: 0.2rem; /* Small space for details */
+}

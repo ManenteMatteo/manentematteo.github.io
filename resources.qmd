@@ -1,5 +1,5 @@
 ---
-title: "Materials & Teaching"
+title: ""
 ---
 
 ## Slides
