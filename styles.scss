@@ -1,19 +1,26 @@
 /*-- scss:rules --*/
 
-// IMPORT FONTS
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+/* 1. NON importiamo più Google Fonts. Usiamo i font nativi. */
 
-// --- STILI GLOBALI ---
+/* --- STILI GLOBALI --- */
 body {
-  font-family: 'Lato', sans-serif;
-  color: #000000; /* Nero standard */
+  /* Questa è la "System Font Stack": usa il font migliore per ogni dispositivo */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  color: #000000; /* Nero assoluto */
   background-color: #ffffff;
-  font-weight: 400;
+
+  /* Reset dei pesi */
+  font-weight: 400; /* Normale */
+  font-style: normal;
+
+  /* Nitidezza */
+  -webkit-font-smoothing: antialiased;
 }
 
-// I link colorati //
+/* --- GESTIONE LINK --- */
 a {
-  color: #a00414;
+  color: #a00414; /* Rosso Unipd */
   text-decoration: none;
 }
 
@@ -21,40 +28,48 @@ a:hover {
   text-decoration: underline;
 }
 
-// --- TIPOGRAFIA (colore font) ---
+/* --- TIPOGRAFIA --- */
+
+/* Paragrafi */
+p {
+  line-height: 1.6;
+  margin-bottom: 1em;
+  font-weight: 400; /* Assicuriamo che sia normale */
+}
+
+/* GRASSETTI: Qui forziamo il browser a non sbagliare mai */
+strong, b {
+  font-weight: 700 !important; /* Forza bruta sul grassetto */
+  color: #000000;
+}
+
+/* Titoli */
 h1, h2, h3, h4 {
-  color: #000000; /* Titoli Neri */
-  font-weight: 700;
+  color: #000000;
+  font-weight: 700; /* Grassetto per i titoli */
   margin-top: 1.5em;
   margin-bottom: 0.5em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
 h1 {
   font-size: 2.5rem;
-  border-bottom: 1px solid #eee; /* Linea grigia sottile sotto il titolo principale */
+  border-bottom: 1px solid #eee;
   padding-bottom: 0.2em;
 }
 
 h2 {
   font-size: 1.75rem;
-  color: #000000; /* Nero anche qui */
 }
 
-p {
-  line-height: 1.6;
-  font-weight: 300;
-}
+/* --- LIST SPACING FIX (Manteniamo la tua spaziatura) --- */
 
-
-
-/* --- LIST SPACING FIX --- */
-
-/* 1. Add space between the MAIN list items (e.g., between PhD and MS) */
+/* Spazio tra gli elementi PRINCIPALI */
 main ul > li {
-  margin-bottom: 1.5rem; /* Adjust this number to increase/decrease space */
+  margin-bottom: 1.5rem;
 }
 
-/* 2. Keep the SUB-items tight (e.g., Date, Supervisor) */
+/* Spazio compatto per i dettagli */
 main ul li ul li {
-  margin-bottom: 0.2rem; /* Small space for details */
+  margin-bottom: 0.2rem;
 }
