@@ -19,14 +19,14 @@ toc-title: "CV Sections"
 
 
 
-* **M.S. in Developmental Clinical Psychology** | University of Padova
+* **M.D. in Developmental Clinical Psychology** | University of Padova
   * *2023 - 2025* | **110 cum laude**
   * Thesis: *'Multiverse Meta-Analysis: Proposal of a New Inferential Approach with an Application to Depression Psychotherapy'*
   * Supervisor: Prof. Gianmarco Altoè | Co-Supervisor: Dr. Filippo Gambarota
 
 
 
-* **B.S. in Psychological Sciences and Techniques** | University of Padova
+* **B.D. in Psychological Sciences and Techniques** | University of Padova
   * *2019 - 2023* | **109/110**
   * Thesis: *Bullying, Cyberbullying and Parenting Styles*
   * Supervisor: Prof. Tiziana Pozzoli
@@ -80,6 +80,7 @@ toc-title: "CV Sections"
 * **Basics of Statistical Inference and Linear Models with R** (20h) | University of Padova (Nov-Dec 2025)
 * **Basics of R for Data Science** (10h) | University of Padova (Nov 2025)
 
+<br>
 
 **Summer Schools & Workshops**
 

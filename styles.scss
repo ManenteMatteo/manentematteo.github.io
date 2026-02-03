@@ -1,6 +1,5 @@
 /*-- scss:rules --*/
 
-/* 1. NON importiamo più Google Fonts. Usiamo i font nativi. */
 
 /* --- STILI GLOBALI --- */
 body {
@@ -34,7 +33,7 @@ a:hover {
 p {
   line-height: 1.6;
   margin-bottom: 1em;
-  font-weight: 400; /* Assicuriamo che sia normale */
+  font-weight: 400;
 }
 
 /* GRASSETTI: Qui forziamo il browser a non sbagliare mai */
@@ -62,7 +61,7 @@ h2 {
   font-size: 1.75rem;
 }
 
-/* --- LIST SPACING FIX (Manteniamo la tua spaziatura) --- */
+/* --- LIST SPACING FIX --- */
 
 /* Spazio tra gli elementi PRINCIPALI */
 main ul > li {

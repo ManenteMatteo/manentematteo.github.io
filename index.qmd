@@ -20,7 +20,7 @@ about:
 
 I am a **Licensed Psychologist** and **PhD Candidate** in Psychological Sciences at the University of Padova. I am also a member of the **[Psicostat](https://psicostat.dpss.psy.unipd.it/)** research group.
 
-My research combines **clinical psychology** and **statistical methodology**, with the goal of improving the robustness and credibility of psychological research.
+My research combines **clinical psychology** and **statistical methodology**, with the goal of improving the robustness and transparency of psychological research.
 
 I am currently developing and applying **Inferential Multiverse Meta-analysis**, moving beyond single effect sizes to examine how analytical decisions shape scientific conclusions.
 
