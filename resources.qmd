@@ -7,7 +7,7 @@ title: ""
 ::: {.arrow-list}
 * **Inferential Multiverse Meta-Analysis (PIMMA)** | [View Slides](slides/innsbruck_lesson_copy.html)
 
-* **Cognitive Science Arena (CSA) 2026 [View Slides](slides/csa_2026_slides_copy.html)
+* **Cognitive Science Arena (CSA) 2026** | [View Slides](slides/csa_2026_slides_copy.html)
 
 :::
 
