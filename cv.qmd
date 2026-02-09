@@ -10,6 +10,17 @@ toc-title: "CV Sections"
 <i class="bi bi-file-earmark-pdf"></i> [**Download CV (PDF)**](cv.pdf){.btn .btn-outline-primary .btn-sm role="button"}
 :::
 
+
+## Professional Qualification
+
+
+* **Licensed Psychologist (Section A)**
+  * *Ordine degli Psicologi del Veneto* | N. 15759 (since Oct. 13, 2025)
+ 
+
+<br> <br> 
+  
+
 ## Education
 
 
@@ -32,19 +43,89 @@ toc-title: "CV Sections"
   * Supervisor: Prof. Tiziana Pozzoli
 
 
-## Professional Qualification
+
+<br> <br> 
+
+## Methodological Training
+
+**Advanced Statistical Training**
+
+* **Generalized Linear Models for Psychology: Understanding, Simulating, and Planning Your Analyses** (4h) | Hands-On Psicostat | University of Brixen (Feb 2026)
+* **Generalised Linear Models** (20h) | PhD Course | University of Padova (Dec 2025)
+* **Basics of Statistical Inference and Linear Models with R** (20h) | PhD Course | University of Padova (Nov-Dec 2025)
+* **Basics of R for Data Science** (10h) | PhD Course | University of Padova (Nov 2025)
+
+<br>
 
 
-* **Licensed Psychologist (Section A)**
-  * *Ordine degli Psicologi del Veneto* | N. 15759 (since Oct. 13, 2025)
+**Summer Schools & Workshops**
 
+* **Replicability Crisis in Science** (20h) | University of Padova (June 2025)
+* **BEYOND classical p-values** (30h) | University of Trento (May 2025)
+* **PreDoc Camp in Psychology & Cognitive Science** (20h) | University of Trento (April 2025)
+* **ARCA Course: PsychoPy3** (20h) | University of Padova (March 2025)
++ **Drafting Clinical Reports in Developmental Settings** (8h) | University of Padova (Nov-Dec 2024)
+* **Soft Skills Training Laboratory** | University of Padova (Mar-May 2024)
+
+
+
+<br> <br> 
+
+## Skills
+
+**Languages**
+
+* **Italian:** Native
+* **English:** C1 (IELTS 8.0)
+* **Spanish:** Intermediate
+
+**Digital Skills**
+
+* **Advanced:** R, Quarto, Markdown, Data Visualization (ggplot2)
+* **Basic:** Python, Git, PsychoPy, Zotero, Canva
+
+**Data Analysis**: Statistical modeling, Meta-Analysis, Multiverse Analysis
+
+
+<br> <br> 
+
+## Work Experience
+
+* **Residential Care Worker** | CTRP 'I Cristalli' (VR)
+  * *Apr 2025 - Sept 2025*
+  * Facilitation of therapeutic interventions and multidisciplinary evaluations.
+
+* **Clinical Internship (500h)** | CTRP 'I Cristalli' (VR)
+  * *July 2024 - Nov 2024*
+  * Therapeutic groups (art/music therapy), drafting individualized plans (PTI).
+
+* **Clinical Internship (250h)** | Mater Salutis Hospital / Day Center 'Il Tulipano' (VR)
+  * *2022 - 2023*
+  * Support in rehabilitative sessions with psychiatric patients.
+
+
+<br> <br> 
+
+
+## Awards
+
+**2026**
+
++ **Valiant Award** - Cognitive Science Arena (CSA) 2026
+  * Best oral presentation
+
+
+<br> <br> 
 
 ## Publications
 
 
 * **Manente, M.**, Altoè, G., Finos, L., & Gambarota, F. (in prep). *A Framework for Inference in Multiverse Meta-analysis with Applications to Real Case Studies*.
+
 * Marci, T., Calignano, G., **Manente, M.**, Menghini, L., & Liuzza, M. T. (in prep). *Evidence for a Two-Dimensional Structure of the Italian short-form Grit-S in Youth*.
 
+
+<br> <br> 
 
 ## Conference Presentations
 
@@ -69,57 +150,47 @@ toc-title: "CV Sections"
 * **Manente, M.**, Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). *Post-Selection Inference in Multiverse Meta-Analysis (PIMMA)*. Talk at the European Mathematical Psychology Group (EMPG) Meeting, Padova, Italy.
 
 
+<br> <br> 
 
 
-## Methodological Training
+## Peer Reviews
 
-**Advanced Statistics (PhD Courses)**
-
-
-* **Generalised Linear Models** (20h) | University of Padova (Dec 2025)
-* **Basics of Statistical Inference and Linear Models with R** (20h) | University of Padova (Nov-Dec 2025)
-* **Basics of R for Data Science** (10h) | University of Padova (Nov 2025)
-
-<br>
-
-**Summer Schools & Workshops**
-
-
-* **Replicability Crisis in Science** (20h) | University of Padova (June 2025)
-* **BEYOND classical p-values** (30h) | University of Trento (May 2025)
-* **PreDoc Camp in Psychology & Cognitive Science** (20h) | University of Trento (April 2025)
-* **ARCA Course: PsychoPy3** (20h) | University of Padova (March 2025)
+* **PLOS One**
+  * 
+  
+* **Qeios**
+  * [https://doi.org/10.32388/JBB7LC](https://doi.org/10.32388/JBB7LC)
+  
+  
+  
+  
+<br> <br> 
 
 
-## Work Experience
+## Academic Memberhips
+
+* **Italian Reproducibility Network (ITRN)**
+  * *2026 - ongoing*
 
 
-* **Educator** | CTRP 'I Cristalli' (VR)
-  * *Apr 2025 - Sept 2025*
-  * Facilitation of therapeutic interventions and multidisciplinary evaluations.
-
-* **Clinical Internship (500h)** | CTRP 'I Cristalli' (VR)
-  * *July 2024 - Nov 2024*
-  * Therapeutic groups (art/music therapy), drafting individualized plans (PTI).
-
-* **Clinical Internship (250h)** | Mater Salutis Hospital / Day Center 'Il Tulipano' (VR)
-  * *2022 - 2023*
-  * Support in rehabilitative sessions with psychiatric patients.
+<br> <br> 
 
 
-## Skills
+## Institutional Service
 
-**Languages**
+* **PhD Student Representative - Faculty Board**
+  * *2026 - ongoing*
+  * PhD Program in Psychological Sciences
 
-* **Italian:** Native
-* **English:** C1 (IELTS 8.0)
-* **Spanish:** Intermediate
+  
+  
+* **PhD Student Representative - Doctoral Program Steering Committee**
+  * *2026 - ongoing*
+  * PhD Program in Psychological Sciences
 
-**Digital Skills**
 
-* **Advanced:** R, Quarto, Markdown, Data Visualization (ggplot2)
-* **Basic:** PsychoPy, Python, Zotero, Canva
-* **Focus:** Statistical modeling, experiment programming, meta-analysis
+<br> <br> 
+
 
 ## Third Mission
 
