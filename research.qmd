@@ -11,6 +11,7 @@ title: ""
 
 <br>
 
+
 ## Awards
 
 **2026**
@@ -26,9 +27,9 @@ title: ""
 
 **2026**
 
-* **Manente, M.**, Finos, L., & Altoè, G. *Does EMDR Really Work? A Multiverse Meta-Analysis of PTSD Treatment Efficacy*. Poster at the Italian Reproducibility Network (ITRN) Meeting, Verona, Italy.
+* **Manente, M.**, Finos, L., & Altoè, G. (2026). *Does EMDR Really Work? A Multiverse Meta-Analysis of PTSD Treatment Efficacy*. Poster at the Italian Reproducibility Network (ITRN) Meeting, Verona, Italy.
 
-* **Manente, M.**, Altoè, G., Finos, L., & Gambarota, F. *Your meta-analysis depends on choices: A multiverse approach to solid inference*. Talk at the Cognitive Science Arena (CSA), Bressanone, Italy.
+* **Manente, M.**, Altoè, G., Finos, L., & Gambarota, F. (2026). *Your meta-analysis depends on choices: A multiverse approach to solid inference*. Talk at the Cognitive Science Arena (CSA), Bressanone, Italy.
 
 
 * **Manente, M.** (2026). *Multiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research*. Invited Talk for the Bachelor's Degree Course "*Methodenvertiefung Meta-Analysis*", University of Innsbruck.
