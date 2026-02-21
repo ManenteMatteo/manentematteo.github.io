@@ -14,13 +14,6 @@
     "text": "Inferential Multiverse Meta-Analysis (PIMMA) | View Slides\nCognitive Science Arena (CSA) 2026 | View Slides"
   },
   {
-    "objectID": "resources.html#code-tutorials",
-    "href": "resources.html#code-tutorials",
-    "title": "Matteo Manente",
-    "section": "Code & Tutorials",
-    "text": "Code & Tutorials"
-  },
-  {
     "objectID": "contacts.html",
     "href": "contacts.html",
     "title": "Matteo Manente",
@@ -60,14 +53,28 @@
     "href": "research.html#awards",
     "title": "Matteo Manente",
     "section": "Awards",
-    "text": "Awards\n2026\n\nValiant Award - Cognitive Science Arena (CSA) 2026\n\nBest oral presentation"
+    "text": "Awards\n2026\n\nValiant Award - Cognitive Science Arena (CSA) 2026\n\nBest Talk. Presentation title: “Your meta-analysis depends on choices: A multiverse approach to solid inference”."
   },
   {
-    "objectID": "research.html#talks-posters-presentations",
-    "href": "research.html#talks-posters-presentations",
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
     "title": "Matteo Manente",
-    "section": "Talks, Posters & Presentations",
-    "text": "Talks, Posters & Presentations\n2026\n\nManente, M., Finos, L., & Altoè, G. (2026). Does EMDR Really Work? A Multiverse Meta-Analysis of PTSD Treatment Efficacy. Poster at the Italian Reproducibility Network (ITRN) Meeting, Verona, Italy.\nManente, M., Altoè, G., Finos, L., & Gambarota, F. (2026). Your meta-analysis depends on choices: A multiverse approach to solid inference. Talk at the Cognitive Science Arena (CSA), Bressanone, Italy.\nManente, M. (2026). Multiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research. Invited Talk for the Bachelor’s Degree Course “Methodenvertiefung Meta-Analysis”, University of Innsbruck.\n\n2025\n\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Choices Shape Conclusions: An Inferential Multiverse approach to Meta-Analysis. Talk at the Psicostat Meeting (Online).\nSità, L., Manente, M., Perugini, A., Calignano, G., Toffalini, E., Marci, T., Pastore, M., & Altoè, G. (2025). Set up for a Methodological Review Board in Psychology. Symposium at the Platform for Young Meta-Scientists (PYMS), Tilburg, Netherlands.\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Enhancing Transparency and Rigor in Psychology: A Multiverse Inference Framework. Poster at the Associazione Italiana di Psicologia (AIP) Sperimentale National Congress, Torino, Italy.\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Post-Selection Inference in Multiverse Meta-Analysis (PIMMA). Talk at the European Mathematical Psychology Group (EMPG) Meeting, Padova, Italy."
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n2026\n\nManente, M., Altoè, G., Finos, L., & Gambarota, F. (accepted). Your meta-analysis depends on choices: A multiverse approach to solid inference. Talk at the Cognitive Science Arena (CSA), Bressanone, Italy.\nManente, M., Finos, L., & Altoè, G. (submitted). Does EMDR Really Work? A Multiverse Meta-Analysis of PTSD Treatment Efficacy. Poster at the Italian Reproducibility Network (ITRN) Meeting, Verona, Italy.\nManente, M. (2026). Multiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research. Invited Talk for the Methodenvertiefung Meta-Analysis Course, University of Innsbruck.\n\n2025\n\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Choices Shape Conclusions: An Inferential Multiverse approach to Meta-Analysis. Talk at the Psicostat Meeting (Online).\nSità, L., Manente, M., Perugini, A., Calignano, G., Toffalini, E., Marci, T., Pastore, M., & Altoè, G. (2025). Set up for a Methodological Review Board in Psychology. Symposium at the Platform for Young Meta-Scientists (PYMS), Tilburg, Netherlands.\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Enhancing Transparency and Rigor in Psychology: A Multiverse Inference Framework. Poster at the Associazione Italiana di Psicologia (AIP) Sperimentale National Congress, Torino, Italy.\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Post-Selection Inference in Multiverse Meta-Analysis (PIMMA). Talk at the European Mathematical Psychology Group (EMPG) Meeting, Padova, Italy."
+  },
+  {
+    "objectID": "research.html#peer-reviews",
+    "href": "research.html#peer-reviews",
+    "title": "Matteo Manente",
+    "section": "Peer Reviews",
+    "text": "Peer Reviews\n\nPLOS One\n\n\n\nQeios\n\ndoi.org/10.32388/JBB7LC"
+  },
+  {
+    "objectID": "research.html#academic-memberhips",
+    "href": "research.html#academic-memberhips",
+    "title": "Matteo Manente",
+    "section": "Academic Memberhips",
+    "text": "Academic Memberhips\n\nSociety for the Improvement of Psychological Science (SIPS)\n\n2026 - ongoing\n\nItalian Reproducibility Network (ITRN)\n\n2026 - ongoing"
   },
   {
     "objectID": "index.html",
@@ -116,7 +123,7 @@
     "href": "cv.html#methodological-training",
     "title": "Matteo Manente",
     "section": "Methodological Training",
-    "text": "Methodological Training\nAdvanced Statistical Training\n\nGeneralized Linear Models for Psychology: Understanding, Simulating, and Planning Your Analyses (4h) | Hands-On Psicostat | University of Brixen (Feb 2026)\nGeneralised Linear Models (20h) | PhD Course | University of Padova (Dec 2025)\nBasics of Statistical Inference and Linear Models with R (20h) | PhD Course | University of Padova (Nov-Dec 2025)\nBasics of R for Data Science (10h) | PhD Course | University of Padova (Nov 2025)\n\n\nSummer Schools & Workshops\n\nReplicability Crisis in Science (20h) | University of Padova (June 2025)\nBEYOND classical p-values (30h) | University of Trento (May 2025)\nPreDoc Camp in Psychology & Cognitive Science (20h) | University of Trento (April 2025)\nARCA Course: PsychoPy3 (20h) | University of Padova (March 2025)\nDrafting Clinical Reports in Developmental Settings (8h) | University of Padova (Nov-Dec 2024)\nSoft Skills Training Laboratory | University of Padova (Mar-May 2024)"
+    "text": "Methodological Training\nAdvanced Statistical Training\n\nGeneralized Linear Models for Psychology: Understanding, Simulating, and Planning Your Analyses (4h) | Hands-On Psicostat | University of Brixen (Feb 2026)\nGeneralised Linear Models (20h) | PhD Course | University of Padova (Dec 2025)\nBasics of Statistical Inference and Linear Models with R (20h) | PhD Course | University of Padova (Nov-Dec 2025)\nBasics of R for Data Science (10h) | PhD Course | University of Padova (Nov 2025)\n\n\nSummer Schools & Workshops\n\nITRN Hands-On Workshop on Reproducibility & Open Science (4h) | University of Verona (February 2026)\nReplicability Crisis in Science (20h) | University of Padova (June 2025)\nBEYOND classical p-values (30h) | University of Trento (May 2025)\nPreDoc Camp in Psychology & Cognitive Science (20h) | University of Trento (April 2025)\nARCA Course: PsychoPy3 (20h) | University of Padova (March 2025)\nDrafting Clinical Reports in Developmental Settings (8h) | University of Padova (Nov-Dec 2024)\nSoft Skills Training Laboratory | University of Padova (Mar-May 2024)"
   },
   {
     "objectID": "cv.html#skills",
@@ -137,7 +144,7 @@
     "href": "cv.html#awards",
     "title": "Matteo Manente",
     "section": "Awards",
-    "text": "Awards\n2026\n\nValiant Award - Cognitive Science Arena (CSA) 2026\n\nBest oral presentation"
+    "text": "Awards\n2026\n\nValiant Award - Cognitive Science Arena (CSA) 2026\n\nBest Talk. Presentation Title: “Your meta-analysis depends on choices: A multiverse approach to solid inference”."
   },
   {
     "objectID": "cv.html#publications",
@@ -158,14 +165,14 @@
     "href": "cv.html#peer-reviews",
     "title": "Matteo Manente",
     "section": "Peer Reviews",
-    "text": "Peer Reviews\n\nPLOS One\n\n\n\nQeios\n\nhttps://doi.org/10.32388/JBB7LC"
+    "text": "Peer Reviews\n\nPLOS One\n\n\n\nQeios\n\ndoi.org/10.32388/JBB7LC"
   },
   {
     "objectID": "cv.html#academic-memberhips",
     "href": "cv.html#academic-memberhips",
     "title": "Matteo Manente",
     "section": "Academic Memberhips",
-    "text": "Academic Memberhips\n\nItalian Reproducibility Network (ITRN)\n\n2026 - ongoing"
+    "text": "Academic Memberhips\n\nSociety for the Improvement of Psychological Science (SIPS)\n\n2026 - ongoing\n\nItalian Reproducibility Network (ITRN)\n\n2026 - ongoing"
   },
   {
     "objectID": "cv.html#institutional-service",

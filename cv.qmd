@@ -18,7 +18,7 @@ toc-title: "CV Sections"
   * *Ordine degli Psicologi del Veneto* | N. 15759 (since Oct. 13, 2025)
  
 
-<br> <br> 
+<br>
   
 
 ## Education
@@ -44,7 +44,7 @@ toc-title: "CV Sections"
 
 
 
-<br> <br> 
+<br>
 
 ## Methodological Training
 
@@ -60,6 +60,7 @@ toc-title: "CV Sections"
 
 **Summer Schools & Workshops**
 
+* **ITRN Hands-On Workshop on Reproducibility & Open Science** (4h) | University of Verona (February 2026)
 * **Replicability Crisis in Science** (20h) | University of Padova (June 2025)
 * **BEYOND classical p-values** (30h) | University of Trento (May 2025)
 * **PreDoc Camp in Psychology & Cognitive Science** (20h) | University of Trento (April 2025)
@@ -69,7 +70,7 @@ toc-title: "CV Sections"
 
 
 
-<br> <br> 
+<br>
 
 ## Skills
 
@@ -87,7 +88,7 @@ toc-title: "CV Sections"
 **Data Analysis**: Statistical modeling, Meta-Analysis, Multiverse Analysis
 
 
-<br> <br> 
+<br>
 
 
 ## Work Experience
@@ -105,7 +106,7 @@ toc-title: "CV Sections"
   * Support in rehabilitative sessions with psychiatric patients.
 
 
-<br> <br> 
+<br>
 
 
 ## Awards
@@ -113,20 +114,22 @@ toc-title: "CV Sections"
 **2026**
 
 + **Valiant Award** - Cognitive Science Arena (CSA) 2026
-  * Best oral presentation
+  * *Best Talk*. Presentation Title: "*Your meta-analysis depends on choices: A multiverse approach to solid inference*".
 
 
-<br> <br> 
+<br>
+
 
 ## Publications
 
 
-* **Manente, M.**, Altoè, G., Finos, L., & Gambarota, F. (in prep). *A Framework for Inference in Multiverse Meta-analysis with Applications to Real Case Studies*.
+* **Manente, M.**, Altoè, G., Finos, L., & Gambarota, F. (*in prep*). *A Framework for Inference in Multiverse Meta-analysis with Applications to Real Case Studies*.
 
-* Marci, T., Calignano, G., **Manente, M.**, Menghini, L., & Liuzza, M. T. (in prep). *Evidence for a Two-Dimensional Structure of the Italian short-form Grit-S in Youth*.
+* Marci, T., Calignano, G., **Manente, M.**, Menghini, L., & Liuzza, M. T. (*in prep*). *Evidence for a Two-Dimensional Structure of the Italian short-form Grit-S in Youth*.
 
 
-<br> <br> 
+<br>
+
 
 ## Conference Presentations
 
@@ -151,7 +154,7 @@ toc-title: "CV Sections"
 * **Manente, M.**, Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). *Post-Selection Inference in Multiverse Meta-Analysis (PIMMA)*. Talk at the European Mathematical Psychology Group (EMPG) Meeting, Padova, Italy.
 
 
-<br> <br> 
+<br>
 
 
 ## Peer Reviews
@@ -160,21 +163,24 @@ toc-title: "CV Sections"
   * 
   
 * **Qeios**
-  * [https://doi.org/10.32388/JBB7LC](https://doi.org/10.32388/JBB7LC)
+  * [doi.org/10.32388/JBB7LC](https://doi.org/10.32388/JBB7LC)
   
   
   
   
-<br> <br> 
+<br>
 
 
 ## Academic Memberhips
+
+* **Society for the Improvement of Psychological Science (SIPS)**
+  * *2026 - ongoing*
 
 * **Italian Reproducibility Network (ITRN)**
   * *2026 - ongoing*
 
 
-<br> <br> 
+<br>
 
 
 ## Institutional Service
@@ -190,7 +196,7 @@ toc-title: "CV Sections"
   * PhD Program in Psychological Sciences
 
 
-<br> <br> 
+<br>
 
 
 ## Third Mission

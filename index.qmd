@@ -11,7 +11,7 @@ about:
       href: https://github.com/ManenteMatteo
     - icon: globe
       text: OSF
-      href: https://osf.io/profile
+      href: https://osf.io/srpxb/
     - icon: envelope
       text: Email
       href: mailto:matteo.manente.3@phd.unipd.it 
