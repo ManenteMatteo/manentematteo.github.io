@@ -2,7 +2,7 @@
 title: ""
 ---
 
-## Slides
+## Talks & Presentations
 
 ::: {.arrow-list}
 * **Inferential Multiverse Meta-Analysis (PIMMA)** | [View Slides](slides/innsbruck_lesson_copy.html)
@@ -13,4 +13,14 @@ title: ""
 
 <br>
 
+## Tutor Teaching (Didattica Integrativa)
+
+### Introduction to Data Analysis with RStudio
+
+::: {.arrow-list}
+* Analisi dei dati in ambito di comunità - 2025/26 | [Materials](teaching/intro_r_comunità.html)
+
+* Analisi dei dati in psicologia dello sviluppo - 2025/26 | [Materials](teaching/intro_r_sviluppo.html)
+
+:::
 
