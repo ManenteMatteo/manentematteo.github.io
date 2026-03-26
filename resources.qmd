@@ -15,7 +15,7 @@ title: ""
 
 ## Tutor Teaching (Didattica Integrativa)
 
-### Introduction to Data Analysis with RStudio
+### Introduction to RStudio & Data Analysis
 
 ::: {.arrow-list}
 * Analisi dei dati in ambito di comunità - 2025/26 | [Materials](teaching/intro_r_comunità.html)
@@ -23,4 +23,14 @@ title: ""
 * Analisi dei dati in psicologia dello sviluppo - 2025/26 | [Materials](teaching/intro_r_sviluppo.html)
 
 :::
+
+<br>
+
+## Academic Writing
+
+
+::: {.arrow-list}
+* [Resources & Tutorials](materiali_scrittura_tesi.html)
+:::
+
 
