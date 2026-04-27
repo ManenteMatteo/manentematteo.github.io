@@ -160,7 +160,7 @@ toc-title: "CV Sections"
 ## Peer Reviews
 
 * **PLOS One**
-  * 
+
   
 * **Qeios**
   * [doi.org/10.32388/JBB7LC](https://doi.org/10.32388/JBB7LC)
@@ -172,6 +172,9 @@ toc-title: "CV Sections"
 
 
 ## Academic Memberhips
+
+* **Associazione Italiana di Psicologia (AIP) - Sezione Sperimentale**
+  * *2026 - ongoing*
 
 * **Society for the Improvement of Psychological Science (SIPS)**
   * *2026 - ongoing*

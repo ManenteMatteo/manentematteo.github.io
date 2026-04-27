@@ -1,0 +1,60 @@
+---
+title: "Materiali Utili - Scrittura Tesi"
+author: "Matteo Manente"
+date: today
+date-format: "DD MMMM YYYY"
+embed-resources: true
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "Indice"
+    toc-location: left
+    number-sections: false
+    highlight-style: github
+---
+
+<br>
+
+
+## 1. Come gestire la letteratura
+
+- Utilizzare **[Zotero](https://www.zotero.org/)**
+
+- **[Tutorial - Zotero](https://youtu.be/L-3T-6TZcLY)**
+
+
+<br>
+
+## 2. Come scrivere in modo scientifico 
+
+- Studiare lo stile **[APA](https://apastyle.apa.org/)** (soprattutto parte sul **PLAGIO**)
+
+- Breve **[Tutorial scrittura scientifica](https://resources.springernature.com/learning/course/start?courseId=25360328&origin=en)** - ENG
+
+- **[Libro su scrittura tesi](https://drive.google.com/file/d/1NJPK_PHWfdVb3PvyrY8Bq_7XTCPZO0x6/view?usp=sharing)** - ITA
+
+
+<br>
+
+## 3. Dove scrivere - Quarto
+
+- **[Tutorial Quarto - Basi](https://youtu.be/h7pesqqxSxk)**
+
+- **[Tutorial Quarto - Template](https://youtu.be/hMZlM6NFDMQ)**
+
+- **[Template - ITALIANO](https://drive.google.com/drive/folders/1Hd6F_VzsgmPdJzNoajSmekjZjJZz22EM?usp=sharing)**
+
+
+- **[Template - INGLESE](https://drive.google.com/drive/folders/1IBPb29hBmtKxIO0un1WnRSBzocicNWie?usp=sharing)**
+
+
+<br>
+
+## 4. Risorse utili
+
+- **[Codice Quarto](https://github.com/ManenteMatteo/Inferential-Multiverse-Meta-Analysis/tree/main/PIMMA-Masters-Thesis)** tesi magistrale - Matteo Manente
+
+- **[PDF](https://drive.google.com/file/d/1xJcF3xoyO04mCUXQ0usCUWRZvvQDfXSD/view?usp=sharing)** tesi magistrale - Matteo Manente
+
+
