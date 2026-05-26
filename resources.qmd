@@ -20,7 +20,7 @@ title: ""
 ::: {.arrow-list}
 * [Introduction to RStudio & Data Analysis](teaching/intro_r_comunità.html)
 
-* [Basic Commands](teaching/comandi_base_rstudio.html)
+* [Basic R Commands](teaching/comandi_base_rstudio.html)
 
 :::
 
