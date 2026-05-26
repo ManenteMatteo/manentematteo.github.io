@@ -15,14 +15,39 @@ title: ""
 
 <br>
 
-## Tutor Teaching (Didattica Integrativa)
-
-### Introduction to RStudio & Data Analysis
+## RStudio
 
 ::: {.arrow-list}
-* Analisi dei dati in ambito di comunità - 2025/26 | [Materials](teaching/intro_r_comunità.html)
+* [Introduction to RStudio & Data Analysis](teaching/intro_r_comunità.html)
 
-* Analisi dei dati in psicologia dello sviluppo - 2025/26 | [Materials](teaching/intro_r_sviluppo.html)
+* [Basic Commands](teaching/comandi_base_rstudio.html)
+
+:::
+
+
+<br>
+
+## Statistics
+
+::: {.arrow-list}
+* [Mean | Sampling distribution](teaching/distribuzione_campionaria_media.html)
+
+* [Standard Deviation, Variance and Mean Difference | Sampling Distributions](teaching/distribuzioni_campionarie_sd_diff.html)
+
+:::
+
+<br>
+
+## Shinyapps
+
+**Linear Models**
+
+::: {.arrow-list}
+* [Linearity Assumption](https://2j7s28-matteo-manente.shinyapps.io/lm-linearity-assumption/)
+
+* [Homoscedasticity Assumption](https://2j7s28-matteo-manente.shinyapps.io/lm-homoscedasticity-assumption/)
+
+* [Outlier vs Leverage](https://2j7s28-matteo-manente.shinyapps.io/lm-outlier-vs-leverage/)
 
 :::
 
@@ -33,6 +58,7 @@ title: ""
 
 ::: {.arrow-list}
 * [Resources & Tutorials](materiali_scrittura_tesi.html)
+
 :::
 
 

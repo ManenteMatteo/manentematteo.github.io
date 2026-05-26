@@ -14,11 +14,25 @@
     "text": "Inferential Multiverse Meta-Analysis (PIMMA) | View Slides\nCognitive Science Arena (CSA) - 2026 | View Slides\nSociety for the Improvement of Psychological Science (SIPS) - Online Meeting 2026 | View Slides"
   },
   {
-    "objectID": "resources.html#tutor-teaching-didattica-integrativa",
-    "href": "resources.html#tutor-teaching-didattica-integrativa",
+    "objectID": "resources.html#rstudio",
+    "href": "resources.html#rstudio",
     "title": "Matteo Manente",
-    "section": "Tutor Teaching (Didattica Integrativa)",
-    "text": "Tutor Teaching (Didattica Integrativa)\n\nIntroduction to RStudio & Data Analysis\n\n\nAnalisi dei dati in ambito di comunità - 2025/26 | Materials\nAnalisi dei dati in psicologia dello sviluppo - 2025/26 | Materials"
+    "section": "RStudio",
+    "text": "RStudio\n\n\nIntroduction to RStudio & Data Analysis\nBasic Commands"
+  },
+  {
+    "objectID": "resources.html#statistics",
+    "href": "resources.html#statistics",
+    "title": "Matteo Manente",
+    "section": "Statistics",
+    "text": "Statistics\n\n\nMean | Sampling distribution\nStandard Deviation, Variance and Mean Difference | Sampling Distributions"
+  },
+  {
+    "objectID": "resources.html#shinyapps",
+    "href": "resources.html#shinyapps",
+    "title": "Matteo Manente",
+    "section": "Shinyapps",
+    "text": "Shinyapps\nLinear Models\n\n\nLinearity Assumption\nHomoscedasticity Assumption\nOutlier vs Leverage"
   },
   {
     "objectID": "resources.html#academic-writing",
