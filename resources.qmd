@@ -30,6 +30,8 @@ title: ""
 ## Statistics
 
 ::: {.arrow-list}
+* [Meta-Analysis in R](https://manentematteo.github.io/meta-analysis-summer-school-cagliari-2026/)
+
 * [Mean | Sampling distribution](teaching/distribuzione_campionaria_media.html)
 
 * [Standard Deviation, Variance and Mean Difference | Sampling Distributions](teaching/distribuzioni_campionarie_sd_diff.html)

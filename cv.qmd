@@ -1,217 +1,26 @@
 ---
-title: ""
-toc: true
-toc-title: "CV Sections"
+title: "Curriculum Vitae"
+
 ---
 
-## Curriculum Vitae
-
 ::: {.callout-note appearance="minimal"}
-<i class="bi bi-file-earmark-pdf"></i> [**Download CV (PDF)**](cv.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+<i class="bi bi-file-earmark-pdf"></i>
+[**Download CV (PDF)**](cv.pdf){.btn .btn-outline-primary .btn-sm download="Matteo_Manente_CV.pdf" role="button"}
 :::
 
 
-## Professional Qualification
-
-
-* **Licensed Psychologist (Section A)**
-  * *Ordine degli Psicologi del Veneto* | N. 15759 (since Oct. 13, 2025)
- 
-
-<br>
-  
-
-## Education
-
-
-* **PhD in Psychological Sciences** (XLI Cycle) | University of Padova
-  * *2025 - Present*
-  * Supervisor: Prof. Gianmarco Altoè
-
-
-
-* **M.D. in Developmental Clinical Psychology** | University of Padova
-  * *2023 - 2025* | **110 cum laude**
-  * Thesis: *'Multiverse Meta-Analysis: Proposal of a New Inferential Approach with an Application to Depression Psychotherapy'*
-  * Supervisor: Prof. Gianmarco Altoè | Co-Supervisor: Dr. Filippo Gambarota
-
-
-
-* **B.D. in Psychological Sciences and Techniques** | University of Padova
-  * *2019 - 2023* | **109/110**
-  * Thesis: *Bullying, Cyberbullying and Parenting Styles*
-  * Supervisor: Prof. Tiziana Pozzoli
-
-
-
 <br>
 
-## Methodological Training
+```{=html}
+<div class="cv-pdf-container">
+  <iframe
+    src="cv.pdf#toolbar=1&navpanes=0&scrollbar=1"
+    class="cv-pdf"
+    title="Matteo Manente CV">
+  </iframe>
+</div>
 
-**Advanced Statistical Training**
 
-* **Generalized Linear Models for Psychology: Understanding, Simulating, and Planning Your Analyses** (4h) | Hands-On Psicostat | University of Brixen (Feb 2026)
-* **Generalised Linear Models** (20h) | PhD Course | University of Padova (Dec 2025)
-* **Basics of Statistical Inference and Linear Models with R** (20h) | PhD Course | University of Padova (Nov-Dec 2025)
-* **Basics of R for Data Science** (10h) | PhD Course | University of Padova (Nov 2025)
+```
 
-<br>
-
-
-**Summer Schools & Workshops**
-
-* **ITRN Hands-On Workshop on Reproducibility & Open Science** (4h) | University of Verona (February 2026)
-* **Replicability Crisis in Science** (20h) | University of Padova (June 2025)
-* **BEYOND classical p-values** (30h) | University of Trento (May 2025)
-* **PreDoc Camp in Psychology & Cognitive Science** (20h) | University of Trento (April 2025)
-* **ARCA Course: PsychoPy3** (20h) | University of Padova (March 2025)
-+ **Drafting Clinical Reports in Developmental Settings** (8h) | University of Padova (Nov-Dec 2024)
-* **Soft Skills Training Laboratory** | University of Padova (Mar-May 2024)
-
-
-
-<br>
-
-## Skills
-
-**Languages**
-
-* **Italian:** Native
-* **English:** C1 (IELTS 8.0)
-* **Spanish:** Intermediate
-
-**Digital Skills**
-
-* **Advanced:** R, Quarto, Markdown, Data Visualization (ggplot2)
-* **Basic:** Python, Git, PsychoPy, Zotero, Canva
-
-**Data Analysis**: Statistical modeling, Meta-Analysis, Multiverse Analysis
-
-
-<br>
-
-
-## Work Experience
-
-* **Residential Care Worker** | CTRP 'I Cristalli' (VR)
-  * *Apr 2025 - Sept 2025*
-  * Facilitation of therapeutic interventions and multidisciplinary evaluations.
-
-* **Clinical Internship (500h)** | CTRP 'I Cristalli' (VR)
-  * *July 2024 - Nov 2024*
-  * Therapeutic groups (art/music therapy), drafting individualized plans (PTI).
-
-* **Clinical Internship (250h)** | Mater Salutis Hospital / Day Center 'Il Tulipano' (VR)
-  * *2022 - 2023*
-  * Support in rehabilitative sessions with psychiatric patients.
-
-
-<br>
-
-
-## Awards
-
-**2026**
-
-+ **Valiant Award** - Cognitive Science Arena (CSA) 2026
-  * *Best Talk*. Presentation Title: "*Your meta-analysis depends on choices: A multiverse approach to solid inference*".
-
-
-<br>
-
-
-## Publications
-
-
-* **Manente, M.**, Altoè, G., Finos, L., & Gambarota, F. (*in prep*). *A Framework for Inference in Multiverse Meta-analysis with Applications to Real Case Studies*.
-
-* Marci, T., Calignano, G., **Manente, M.**, & Liuzza, M. T. (*submitted*). *Evidence for a Two-Dimensional Structure of the Italian short-form Grit-S in Youth*.
-
-
-<br>
-
-
-## Conference Presentations
-
-**2026**
-
-* **Manente, M.**, Altoè, G., Finos, L., & Gambarota, F. *Your meta-analysis depends on choices: A multiverse approach to solid inference*. Talk at the Cognitive Science Arena (CSA), Bressanone, Italy.
-
-* **Manente, M.**, Finos, L., & Altoè, G. *Does EMDR Really Work? A Multiverse Meta-Analysis of PTSD Treatment Efficacy*. Poster at the Italian Reproducibility Network (ITRN) Meeting, Verona, Italy.
-
-* **Manente, M.** (2026). *Multiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research*. Invited Talk for the Methodenvertiefung Meta-Analysis Course, University of Innsbruck.
-
-
-**2025**
-
-
-* **Manente, M.**, Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). *Choices Shape Conclusions: An Inferential Multiverse approach to Meta-Analysis*. Talk at the Psicostat Meeting (Online).
-
-* Sità, L., **Manente, M.**, Perugini, A., Calignano, G., Toffalini, E., Marci, T., Pastore, M., & Altoè, G. (2025). *Set up for a Methodological Review Board in Psychology*. Symposium at the Platform for Young Meta-Scientists (PYMS), Tilburg, Netherlands.
-
-* **Manente, M.**, Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). *Enhancing Transparency and Rigor in Psychology: A Multiverse Inference Framework*. Poster at the Associazione Italiana di Psicologia (AIP) Sperimentale National Congress, Torino, Italy.
-
-* **Manente, M.**, Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). *Post-Selection Inference in Multiverse Meta-Analysis (PIMMA)*. Talk at the European Mathematical Psychology Group (EMPG) Meeting, Padova, Italy.
-
-
-<br>
-
-
-## Peer Reviews
-
-* **PLOS One**
-
-  
-* **Qeios**
-  * [doi.org/10.32388/JBB7LC](https://doi.org/10.32388/JBB7LC)
-  
-  
-  
-  
-<br>
-
-
-## Academic Memberhips
-
-* **Associazione Italiana di Psicologia (AIP) - Sezione Sperimentale**
-  * *2026 - ongoing*
-
-* **Society for the Improvement of Psychological Science (SIPS)**
-  * *2026 - ongoing*
-
-* **Italian Reproducibility Network (ITRN)**
-  * *2026 - ongoing*
-
-
-<br>
-
-
-## Institutional Service
-
-* **PhD Student Representative - Academic Board**
-  * *2026 - ongoing*
-  * PhD Program in Psychological Sciences
-
-  
-  
-* **PhD Student Representative - Governing Council**
-  * *2026 - ongoing*
-  * PhD Program in Psychological Sciences
-
-
-<br>
-
-
-## Third Mission
-
-
-* **Methodological Review Board (MRB) Development** | University of Padova
-  * *March 2024 - Present*
-  * Member of the Pilot Study Team. Designing a departmental review board to promote Open Science.
-
-
-
-* **La scienza è aperta: la scienza incontra la città** | University of Padova
-  * *Nov 2025* | Organization Committee
-  * Public engagement event promoting transparency in research.
 

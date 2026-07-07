@@ -6,7 +6,7 @@ title: ""
 
 * **Manente, M.**, Altoè, G., Finos, L., & Gambarota, F. (*in prep*). *A Framework for Inference in Multiverse Meta-analysis with Applications to Real Case Studies*.
 
-* Marci, T., Calignano, G., **Manente, M.**, & Liuzza, M. T. (*submitted*). *Evidence for a Two-Dimensional Structure of the Italian short-form Grit-S in Youth*.
+* Marci, T., Calignano, G., **Manente, M.**, & Liuzza, M. T. (*submitted to Journal of Personality Assessment*). *Evidence for a Two-Dimensional Structure of the Italian short-form Grit-S in Youth*.
 
 
 <br>
@@ -16,39 +16,55 @@ title: ""
 
 **2026**
 
-+ **Valiant Award** - Cognitive Science Arena (CSA) 2026
+* **Valiant Award** - Cognitive Science Arena (CSA) 2026
   * *Best Talk*. Presentation title: "*Your meta-analysis depends on choices: A multiverse approach to solid inference*".
 
 <br>
 
-
-## Conference Presentations
+## Invited Talks & Keynote Lectures
 
 **2026**
 
-* **Manente, M.**, Altoè, G., Finos, L., & Gambarota, F. *Your meta-analysis depends on choices: A multiverse approach to solid inference*. Talk at the Cognitive Science Arena (CSA), Bressanone, Italy.
+* **Keynote Speaker - AIP Sperimentale 2026**
+  * **Manente, M.** *One Dataset, Many Results: Multiverse Inference in Psychological Science*. Annual Meeting of the Experimental Psychology Section of the Italian Association of Psychology (AIP), Venice, Italy.
 
-* **Manente, M.**, Finos, L., & Altoè, G. *Does EMDR Really Work? A Multiverse Meta-Analysis of PTSD Treatment Efficacy*. Poster at the Italian Reproducibility Network (ITRN) Meeting, Verona, Italy.
+* **Invited Talk - University of Innsbruck**, ***Methodenvertiefung Meta-Analysis Course***
+  * **Manente, M.** *Multiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research*. 
 
-* **Manente, M.** (2026). *Multiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research*. Invited Talk for the Methodenvertiefung Meta-Analysis Course, University of Innsbruck.
+<br>
 
+## Conferences
+
+**2026**
+
+* **Manente, M.**, & Altoè, G. *Improving Robustness in Meta-Analysis Through Inferential Multiverse Analysis*. Poster at the **Annual Meeting of Psychometric Sector (PSI-03)** 2026, Turin, Italy.
+
+* **Manente, M.**, & Altoè, G. *Beyond Descriptive Multiverses: Post-Selection Inference for Multiverse Meta-Analysis*. Lightning Talk at the **Society for the Improvement of Psychological Science (SIPS) Online** 2026.
+
+* **Manente, M.**, Finos, L., & Altoè, G. *Does EMDR Really Work? A Multiverse Meta-Analysis of PTSD Treatment Efficacy*. Poster at the **Italian Reproducibility Network (ITRN) Meeting** 2026, Verona, Italy.
+
+* **Manente, M.**, Altoè, G., Finos, L., & Gambarota, F. *Your meta-analysis depends on choices: A multiverse approach to solid inference*. Talk at the **Cognitive Science Arena (CSA)** 2026, Bressanone, Italy.
+
+<br>
 
 **2025**
 
 
-* **Manente, M.**, Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). *Choices Shape Conclusions: An Inferential Multiverse approach to Meta-Analysis*. Talk at the Psicostat Meeting (Online).
+* **Manente, M.**, Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). *Choices Shape Conclusions: An Inferential Multiverse approach to Meta-Analysis*. Talk at the **Psicostat Meeting** (Online).
 
-* Sità, L., **Manente, M.**, Perugini, A., Calignano, G., Toffalini, E., Marci, T., Pastore, M., & Altoè, G. (2025). *Set up for a Methodological Review Board in Psychology*. Symposium at the Platform for Young Meta-Scientists (PYMS), Tilburg, Netherlands.
+* Sità, L., **Manente, M.**, Perugini, A., Calignano, G., Toffalini, E., Marci, T., Pastore, M., & Altoè, G. (2025). *Set up for a Methodological Review Board in Psychology*. Symposium at the **Platform for Young Meta-Scientists (PYMS)** 2025, Tilburg, Netherlands.
 
-* **Manente, M.**, Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). *Enhancing Transparency and Rigor in Psychology: A Multiverse Inference Framework*. Poster at the Associazione Italiana di Psicologia (AIP) Sperimentale National Congress, Torino, Italy.
+* **Manente, M.**, Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). *Enhancing Transparency and Rigor in Psychology: A Multiverse Inference Framework*. Poster at the National Congress of the **Associazione Italiana di Psicologia (AIP) - Sperimentale** 2025, Torino, Italy.
 
-* **Manente, M.**, Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). *Post-Selection Inference in Multiverse Meta-Analysis (PIMMA)*. Talk at the European Mathematical Psychology Group (EMPG) Meeting, Padova, Italy.
+* **Manente, M.**, Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). *Post-Selection Inference in Multiverse Meta-Analysis (PIMMA)*. Talk at the **European Mathematical Psychology Group (EMPG) Meeting** 2025, Padova, Italy.
 
 
 <br>
 
 
 ## Peer Reviews
+
+* **Journal of Anxiety Disorders**
 
 * **PLOS One**
   
