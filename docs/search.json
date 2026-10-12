@@ -4,42 +4,28 @@
     "href": "resources.html",
     "title": "Matteo Manente",
     "section": "",
-    "text": "Inferential Multiverse Meta-Analysis (PIMMA) | View Slides\nCognitive Science Arena (CSA) - 2026 | View Slides\nSociety for the Improvement of Psychological Science (SIPS) - Online Meeting 2026 | View Slides"
+    "text": "Slides from selected keynote lectures, invited talks, and conference presentations.\n\n\nOne Dataset, Many Results: Multiverse Inference in Psychological Science\nKeynote Lecture – AIP Experimental Psychology Meeting, Venice, 2026 | View Slides\nMultiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research\nInvited Lecture – University of Innsbruck, 2026 | View Slides\nYour Meta-Analysis Depends on Choices: A Multiverse Approach to Solid Inference\nCognitive Science Arena (CSA), Bressanone, 2026 – Best Talk Award | View Slides\nBeyond Descriptive Multiverses: Post-Selection Inference for Multiverse Meta-Analysis\nSociety for the Improvement of Psychological Science (SIPS), Online Meeting, 2026 | View Slides"
   },
   {
     "objectID": "resources.html#talks-presentations",
     "href": "resources.html#talks-presentations",
     "title": "Matteo Manente",
     "section": "",
-    "text": "Inferential Multiverse Meta-Analysis (PIMMA) | View Slides\nCognitive Science Arena (CSA) - 2026 | View Slides\nSociety for the Improvement of Psychological Science (SIPS) - Online Meeting 2026 | View Slides"
+    "text": "Slides from selected keynote lectures, invited talks, and conference presentations.\n\n\nOne Dataset, Many Results: Multiverse Inference in Psychological Science\nKeynote Lecture – AIP Experimental Psychology Meeting, Venice, 2026 | View Slides\nMultiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research\nInvited Lecture – University of Innsbruck, 2026 | View Slides\nYour Meta-Analysis Depends on Choices: A Multiverse Approach to Solid Inference\nCognitive Science Arena (CSA), Bressanone, 2026 – Best Talk Award | View Slides\nBeyond Descriptive Multiverses: Post-Selection Inference for Multiverse Meta-Analysis\nSociety for the Improvement of Psychological Science (SIPS), Online Meeting, 2026 | View Slides"
   },
   {
-    "objectID": "resources.html#rstudio",
-    "href": "resources.html#rstudio",
+    "objectID": "resources.html#teaching-materials",
+    "href": "resources.html#teaching-materials",
     "title": "Matteo Manente",
-    "section": "RStudio",
-    "text": "RStudio\n\n\nIntroduction to RStudio & Data Analysis\nBasic R Commands"
+    "section": "Teaching Materials",
+    "text": "Teaching Materials\n\nR & RStudio\nIntroductory materials for learning RStudio and performing basic data analysis in R.\n\n\nIntroduction to RStudio & Data Analysis\nBasic R Commands\n\n\n\n\nStatistics & Meta-Analysis\nLectures, tutorials, and practical exercises on statistical methods, sampling distributions, and meta-analysis.\n\n\nMeta-Analysis in R – PhD Summer School, University of Cagliari (2026)\nSampling Distribution of the Mean\nSampling Distributions of Standard Deviation, Variance, and Mean Differences\n\n\n\n\nAcademic Writing & Reproducible Research\nResources and tutorials for academic writing, thesis preparation, and research workflows.\n\n\nAcademic Writing Resources & Tutorials"
   },
   {
-    "objectID": "resources.html#statistics",
-    "href": "resources.html#statistics",
+    "objectID": "resources.html#interactive-shiny-applications",
+    "href": "resources.html#interactive-shiny-applications",
     "title": "Matteo Manente",
-    "section": "Statistics",
-    "text": "Statistics\n\n\nMeta-Analysis in R\nMean | Sampling distribution\nStandard Deviation, Variance and Mean Difference | Sampling Distributions"
-  },
-  {
-    "objectID": "resources.html#shinyapps",
-    "href": "resources.html#shinyapps",
-    "title": "Matteo Manente",
-    "section": "Shinyapps",
-    "text": "Shinyapps\nLinear Models\n\n\nLinearity Assumption\nHomoscedasticity Assumption\nOutlier vs Leverage"
-  },
-  {
-    "objectID": "resources.html#academic-writing",
-    "href": "resources.html#academic-writing",
-    "title": "Matteo Manente",
-    "section": "Academic Writing",
-    "text": "Academic Writing\n\n\nResources & Tutorials"
+    "section": "Interactive Shiny Applications",
+    "text": "Interactive Shiny Applications\n\nLinear Models\n\n\nLinearity Assumption\nExplore the relationship between predictors and outcomes and the assumption of linearity.\nHomoscedasticity Assumption\nExamine how constant and non-constant error variance affects linear regression.\nOutliers vs. Leverage\nExplore the distinction between outliers and high-leverage observations in linear models."
   },
   {
     "objectID": "contacts.html",
@@ -95,56 +81,56 @@
     "href": "research.html",
     "title": "Matteo Manente",
     "section": "",
-    "text": "Manente, M., Altoè, G., Finos, L., & Gambarota, F. (in prep). A Framework for Inference in Multiverse Meta-analysis with Applications to Real Case Studies.\nMarci, T., Calignano, G., Manente, M., & Liuzza, M. T. (submitted to Journal of Personality Assessment). Evidence for a Two-Dimensional Structure of the Italian short-form Grit-S in Youth."
+    "text": "Manente, M., Finos, L., Altoè, G., & Gambarota, F. (2026). Post-selection Inference in Multiverse Meta-Analysis: The PIMMA Framework. PsyArXiv Preprint. Manuscript under review at Advances in Statistical Analysis. https://doi.org/10.31234/osf.io/8ejsn_v1\nMarci, T., Calignano, G., Manente, M., & Liuzza, M. T. (under review at Journal of Personality Assessment). Evidence for a Two-Dimensional Structure of the Italian Short-Form Grit-S in Youth.\n\n\n\n\nManente, M., Altoè, G., Alfarone, I., & Calderan, M. (in preparation). Mapping Researcher Degrees of Freedom in Meta-Analyses of Randomized Controlled Trials of EMDR for PTSD: A Systematic Scoping Review. Preregistered protocol currently under embargo.\nAltoè, G., Gambarota, F., Girardi, P., Vesely, A., Calignano, G., Manente, M., Pastore, M., & Finos, L. (in preparation). Multiverse Analysis in R: Exploratory and Inferential Approaches. Springer, UseR! Series.\n\n\n\n\n\nDe Vettor, M., Manente, M., & Boldrini, T. (2026). Acceptability and Stigma of Psychosis-Risk Labels: Protocol for an Individual Participant Data Meta-Analysis (IPDMA). OSF Registries. https://doi.org/10.17605/OSF.IO/P72KQ"
   },
   {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
+    "objectID": "research.html#publications-preprints",
+    "href": "research.html#publications-preprints",
     "title": "Matteo Manente",
     "section": "",
-    "text": "Manente, M., Altoè, G., Finos, L., & Gambarota, F. (in prep). A Framework for Inference in Multiverse Meta-analysis with Applications to Real Case Studies.\nMarci, T., Calignano, G., Manente, M., & Liuzza, M. T. (submitted to Journal of Personality Assessment). Evidence for a Two-Dimensional Structure of the Italian short-form Grit-S in Youth."
+    "text": "Manente, M., Finos, L., Altoè, G., & Gambarota, F. (2026). Post-selection Inference in Multiverse Meta-Analysis: The PIMMA Framework. PsyArXiv Preprint. Manuscript under review at Advances in Statistical Analysis. https://doi.org/10.31234/osf.io/8ejsn_v1\nMarci, T., Calignano, G., Manente, M., & Liuzza, M. T. (under review at Journal of Personality Assessment). Evidence for a Two-Dimensional Structure of the Italian Short-Form Grit-S in Youth.\n\n\n\n\nManente, M., Altoè, G., Alfarone, I., & Calderan, M. (in preparation). Mapping Researcher Degrees of Freedom in Meta-Analyses of Randomized Controlled Trials of EMDR for PTSD: A Systematic Scoping Review. Preregistered protocol currently under embargo.\nAltoè, G., Gambarota, F., Girardi, P., Vesely, A., Calignano, G., Manente, M., Pastore, M., & Finos, L. (in preparation). Multiverse Analysis in R: Exploratory and Inferential Approaches. Springer, UseR! Series.\n\n\n\n\n\nDe Vettor, M., Manente, M., & Boldrini, T. (2026). Acceptability and Stigma of Psychosis-Risk Labels: Protocol for an Individual Participant Data Meta-Analysis (IPDMA). OSF Registries. https://doi.org/10.17605/OSF.IO/P72KQ"
   },
   {
     "objectID": "research.html#awards",
     "href": "research.html#awards",
     "title": "Matteo Manente",
     "section": "Awards",
-    "text": "Awards\n2026\n\nValiant Award - Cognitive Science Arena (CSA) 2026\n\nBest Talk. Presentation title: “Your meta-analysis depends on choices: A multiverse approach to solid inference”."
+    "text": "Awards\n2026\n\nValiant Award – Cognitive Science Arena (CSA) 2026\n\nBest Talk. Presentation title: “Your Meta-Analysis Depends on Choices: A Multiverse Approach to Solid Inference”."
   },
   {
     "objectID": "research.html#invited-talks-keynote-lectures",
     "href": "research.html#invited-talks-keynote-lectures",
     "title": "Matteo Manente",
     "section": "Invited Talks & Keynote Lectures",
-    "text": "Invited Talks & Keynote Lectures\n2026\n\nKeynote Speaker - AIP Sperimentale 2026\n\nManente, M. One Dataset, Many Results: Multiverse Inference in Psychological Science. Annual Meeting of the Experimental Psychology Section of the Italian Association of Psychology (AIP), Venice, Italy.\n\nInvited Talk - University of Innsbruck, Methodenvertiefung Meta-Analysis Course\n\nManente, M. Multiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research."
+    "text": "Invited Talks & Keynote Lectures\n2026\n\nKeynote Speaker – AIP Sperimentale 2026\n\nManente, M. One Dataset, Many Results: Multiverse Inference in Psychological Science. Annual Meeting of the Experimental Psychology Section of the Italian Association of Psychology (AIP), Venice, Italy.\n\nInvited Talk – University of Innsbruck, Methodenvertiefung Meta-Analysis Course\n\nManente, M. Multiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research."
   },
   {
-    "objectID": "research.html#conferences",
-    "href": "research.html#conferences",
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
     "title": "Matteo Manente",
-    "section": "Conferences",
-    "text": "Conferences\n2026\n\nManente, M., & Altoè, G. Improving Robustness in Meta-Analysis Through Inferential Multiverse Analysis. Poster at the Annual Meeting of Psychometric Sector (PSI-03) 2026, Turin, Italy.\nManente, M., & Altoè, G. Beyond Descriptive Multiverses: Post-Selection Inference for Multiverse Meta-Analysis. Lightning Talk at the Society for the Improvement of Psychological Science (SIPS) Online 2026.\nManente, M., Finos, L., & Altoè, G. Does EMDR Really Work? A Multiverse Meta-Analysis of PTSD Treatment Efficacy. Poster at the Italian Reproducibility Network (ITRN) Meeting 2026, Verona, Italy.\nManente, M., Altoè, G., Finos, L., & Gambarota, F. Your meta-analysis depends on choices: A multiverse approach to solid inference. Talk at the Cognitive Science Arena (CSA) 2026, Bressanone, Italy.\n\n\n2025\n\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Choices Shape Conclusions: An Inferential Multiverse approach to Meta-Analysis. Talk at the Psicostat Meeting (Online).\nSità, L., Manente, M., Perugini, A., Calignano, G., Toffalini, E., Marci, T., Pastore, M., & Altoè, G. (2025). Set up for a Methodological Review Board in Psychology. Symposium at the Platform for Young Meta-Scientists (PYMS) 2025, Tilburg, Netherlands.\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Enhancing Transparency and Rigor in Psychology: A Multiverse Inference Framework. Poster at the National Congress of the Associazione Italiana di Psicologia (AIP) - Sperimentale 2025, Torino, Italy.\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. (2025). Post-Selection Inference in Multiverse Meta-Analysis (PIMMA). Talk at the European Mathematical Psychology Group (EMPG) Meeting 2025, Padova, Italy."
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n2026\n\nManente, M., Gambarota, F., Finos, L., & Altoè, G. Validated Multiverse Meta-Analysis: Expert-Constrained Specification Spaces and Post-Selection Inference. Poster at the European Mathematical Psychology Group (EMPG) Meeting 2026, Innsbruck, Austria.\nManente, M., & Altoè, G. Improving Robustness in Meta-Analysis Through Inferential Multiverse Analysis. Poster at the Annual Meeting of Psychometric Sector (PSI-03) 2026, Turin, Italy.\nManente, M., & Altoè, G. Beyond Descriptive Multiverses: Post-Selection Inference for Multiverse Meta-Analysis. Lightning Talk at the Society for the Improvement of Psychological Science (SIPS) Online Meeting 2026.\nManente, M., Finos, L., & Altoè, G. Does EMDR Really Work? A Multiverse Meta-Analysis of PTSD Treatment Efficacy. Poster at the Italian Reproducibility Network (ITRN) Meeting 2026, Verona, Italy.\nManente, M., Altoè, G., Finos, L., & Gambarota, F. Your Meta-Analysis Depends on Choices: A Multiverse Approach to Solid Inference. Talk at the Cognitive Science Arena (CSA) 2026, Bressanone, Italy.\n\n\n2025\n\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. Choices Shape Conclusions: An Inferential Multiverse Approach to Meta-Analysis. Talk at the Psicostat Meeting (Online).\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. Enhancing Transparency and Rigor in Psychology: A Multiverse Inference Framework. Poster at the National Congress of the Associazione Italiana di Psicologia (AIP) – Experimental Section 2025, Turin, Italy.\nManente, M., Gambarota, F., Finos, L., Vesely, A., & Altoè, G. Post-Selection Inference in Multiverse Meta-Analysis (PIMMA). Talk at the European Mathematical Psychology Group (EMPG) Meeting 2025, Padova, Italy.\nSità, L., Manente, M., Perugini, A., Calignano, G., Toffalini, E., Marci, T., Pastore, M., & Altoè, G. Set Up for a Methodological Review Board in Psychology. Symposium at the Platform for Young Meta-Scientists (PYMS) 2025, Tilburg, Netherlands."
   },
   {
-    "objectID": "research.html#peer-reviews",
-    "href": "research.html#peer-reviews",
+    "objectID": "research.html#peer-review",
+    "href": "research.html#peer-review",
     "title": "Matteo Manente",
-    "section": "Peer Reviews",
-    "text": "Peer Reviews\n\nJournal of Anxiety Disorders\nPLOS One\nQeios\n\ndoi.org/10.32388/JBB7LC"
+    "section": "Peer Review",
+    "text": "Peer Review\n2026\n\nAdvances in Statistical Analysis (AStA)\nJournal of Anxiety Disorders\nPLOS ONE\nQeios\n\nPublished Review – DOI: 10.32388/JBB7LC"
   },
   {
-    "objectID": "research.html#academic-memberhips",
-    "href": "research.html#academic-memberhips",
+    "objectID": "research.html#academic-memberships",
+    "href": "research.html#academic-memberships",
     "title": "Matteo Manente",
-    "section": "Academic Memberhips",
-    "text": "Academic Memberhips\n\nAssociazione Italiana di Psicologia (AIP) - Sezione Sperimentale\n\n2026 - ongoing\n\nSociety for the Improvement of Psychological Science (SIPS)\n\n2026 - ongoing\n\nItalian Reproducibility Network (ITRN)\n\n2026 - ongoing"
+    "section": "Academic Memberships",
+    "text": "Academic Memberships\n\nAssociazione Italiana di Psicologia (AIP) – Experimental Section\n\n2026 – ongoing\n\nSociety for the Improvement of Psychological Science (SIPS)\n\n2026 – ongoing\n\nItalian Reproducibility Network (ITRN)\n\n2026 – ongoing"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Matteo Manente",
     "section": "",
-    "text": "I am a Licensed Psychologist and PhD Candidate in Psychological Sciences at the University of Padova. I am also a member of the Psicostat research group.\nMy research combines clinical psychology and statistical methodology, with the goal of improving the robustness and transparency of psychological research.\nI am currently developing and applying Inferential Multiverse Meta-analysis, moving beyond single effect sizes to examine how analytical decisions shape scientific conclusions."
+    "text": "I am a Licensed Psychologist and PhD Candidate in Psychological Sciences at the University of Padova, where I am a member of the Psicostat research group.\nI am currently a Visiting PhD Student at the Department of Data Science, Dana-Farber Cancer Institute (Harvard Medical School) in Boston, working under the supervision of Prof. Giovanni Parmigiani.\nMy research combines clinical psychology and statistical methodology, with a focus on improving the robustness, transparency, and replicability of psychological research.\nIn particular, I develop and apply inferential methods for Multiverse Meta-Analysis, including PIMMA (Post-selection Inference in Multiverse Meta-Analysis), to investigate how analytical decisions affect statistical inference and scientific conclusions."
   },
   {
     "objectID": "index.html#research-interests",

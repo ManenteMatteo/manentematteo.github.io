@@ -2,68 +2,83 @@
 title: ""
 ---
 
+
 ## Talks & Presentations
 
+Slides from selected keynote lectures, invited talks, and conference presentations.
+
 ::: {.arrow-list}
-* **Inferential Multiverse Meta-Analysis (PIMMA)** | [View Slides](slides/innsbruck_lesson_copy.html)
 
-* **Cognitive Science Arena (CSA) - 2026** | [View Slides](slides/csa_2026_slides_copy.html)
+* **One Dataset, Many Results: Multiverse Inference in Psychological Science**  
+  *Keynote Lecture – AIP Experimental Psychology Meeting, Venice, 2026* | [View Slides](slides/slide_keynote_aip_venezia_2026.html)
 
-* **Society for the Improvement of Psychological Science (SIPS) - Online Meeting 2026** | [View Slides](slides/slides_sips_2026_copy.html)
+* **Multiverse Meta-Analysis: Assessing Robustness and Researcher Degrees of Freedom in Psychological Research**  
+  *Invited Lecture – University of Innsbruck, 2026* | [View Slides](slides/innsbruck_lesson_copy.html)
+
+* **Your Meta-Analysis Depends on Choices: A Multiverse Approach to Solid Inference**  
+  *Cognitive Science Arena (CSA), Bressanone, 2026 – Best Talk Award* | [View Slides](slides/csa_2026_slides_copy.html)
+
+* **Beyond Descriptive Multiverses: Post-Selection Inference for Multiverse Meta-Analysis**  
+  *Society for the Improvement of Psychological Science (SIPS), Online Meeting, 2026* | [View Slides](slides/slides_sips_2026_copy.html)
 
 :::
 
 <br>
 
-## RStudio
+## Teaching Materials
+
+
+### R & RStudio
+
+Introductory materials for learning RStudio and performing basic data analysis in R.
 
 ::: {.arrow-list}
+
 * [Introduction to RStudio & Data Analysis](teaching/intro_r_comunità.html)
 
 * [Basic R Commands](teaching/comandi_base_rstudio.html)
 
 :::
 
+### Statistics & Meta-Analysis
 
-<br>
-
-## Statistics
+Lectures, tutorials, and practical exercises on statistical methods, sampling distributions, and meta-analysis.
 
 ::: {.arrow-list}
-* [Meta-Analysis in R](https://manentematteo.github.io/meta-analysis-summer-school-cagliari-2026/)
 
-* [Mean | Sampling distribution](teaching/distribuzione_campionaria_media.html)
+* [Meta-Analysis in R – PhD Summer School, University of Cagliari (2026)](https://manentematteo.github.io/meta-analysis-summer-school-cagliari-2026/)
 
-* [Standard Deviation, Variance and Mean Difference | Sampling Distributions](teaching/distribuzioni_campionarie_sd_diff.html)
+* [Sampling Distribution of the Mean](teaching/distribuzione_campionaria_media.html)
+
+* [Sampling Distributions of Standard Deviation, Variance, and Mean Differences](teaching/distribuzioni_campionarie_sd_diff.html)
+
+:::
+
+### Academic Writing & Reproducible Research
+
+Resources and tutorials for academic writing, thesis preparation, and research workflows.
+
+::: {.arrow-list}
+
+* [Academic Writing Resources & Tutorials](materiali_scrittura_tesi.html)
 
 :::
 
 <br>
 
-## Shinyapps
+## Interactive Shiny Applications
 
-**Linear Models**
-
-::: {.arrow-list}
-* [Linearity Assumption](https://2j7s28-matteo-manente.shinyapps.io/lm-linearity-assumption/)
-
-* [Homoscedasticity Assumption](https://2j7s28-matteo-manente.shinyapps.io/lm-homoscedasticity-assumption/)
-
-* [Outlier vs Leverage](https://2j7s28-matteo-manente.shinyapps.io/lm-outlier-vs-leverage/)
-
-:::
-
-<br>
-
-## Academic Writing
-
+### Linear Models
 
 ::: {.arrow-list}
-* [Resources & Tutorials](materiali_scrittura_tesi.html)
+
+* **[Linearity Assumption](https://2j7s28-matteo-manente.shinyapps.io/lm-linearity-assumption/)**  
+  Explore the relationship between predictors and outcomes and the assumption of linearity.
+
+* **[Homoscedasticity Assumption](https://2j7s28-matteo-manente.shinyapps.io/lm-homoscedasticity-assumption/)**  
+  Examine how constant and non-constant error variance affects linear regression.
+
+* **[Outliers vs. Leverage](https://2j7s28-matteo-manente.shinyapps.io/lm-outlier-vs-leverage/)**  
+  Explore the distinction between outliers and high-leverage observations in linear models.
 
 :::
-
-
-
-
-

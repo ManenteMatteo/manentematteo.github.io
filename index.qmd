@@ -18,11 +18,13 @@ about:
 ---
 
 
-I am a **Licensed Psychologist** and **PhD Candidate** in Psychological Sciences at the University of Padova. I am also a member of the **[Psicostat](https://psicostat.dpss.psy.unipd.it/)** research group.
+I am a **Licensed Psychologist** and **PhD Candidate in Psychological Sciences** at the University of Padova, where I am a member of the **[Psicostat](https://psicostat.dpss.psy.unipd.it/)** research group.
 
-My research combines **clinical psychology** and **statistical methodology**, with the goal of improving the robustness and transparency of psychological research.
+I am currently a **Visiting PhD Student** at the **Department of Data Science, Dana-Farber Cancer Institute (Harvard Medical School)** in Boston, working under the supervision of **Prof. Giovanni Parmigiani**.
 
-I am currently developing and applying **Inferential Multiverse Meta-analysis**, moving beyond single effect sizes to examine how analytical decisions shape scientific conclusions.
+My research combines **clinical psychology and statistical methodology**, with a focus on improving the robustness, transparency, and replicability of psychological research.
+
+In particular, I develop and apply **inferential methods for Multiverse Meta-Analysis**, including **[PIMMA (Post-selection Inference in Multiverse Meta-Analysis)](https://doi.org/10.31234/osf.io/8ejsn_v1)**, to investigate how analytical decisions affect statistical inference and scientific conclusions.
 
 
 ## Research Interests
